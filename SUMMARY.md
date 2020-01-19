@@ -2,6 +2,8 @@
 
 * [Guia técnica sobre lineamientos de JavaScript](README.md)
 
+## Webs utiles
+
 ## Linterns
 
 * [ESLint](linterns/eslint.md)
@@ -10,4 +12,15 @@
 ## Testing
 
 * [Jest](testing/jest.md)
+
+## Snippets
+
+## Dependencias utiles
+
+## VUE
+
+## VSCode Tricks
+
+* [Extensiones](extensiones.md)
+* [Configuraciones](configuraciones.md)
 
