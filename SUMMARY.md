@@ -1,4 +1,13 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Guia técnica sobre lineamientos de JavaScript](README.md)
+
+## Linterns
+
+* [ESLint](linterns/eslint.md)
+* [Reglas](linterns/reglas.md)
+
+## Testing
+
+* [Jest](testing/jest.md)
 
